@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: The Amazing Spider Man
+Created-By: 1.4.2_17 (Sun Microsystems Inc.)
+MIDlet-Icon: /icon.png
+MIDlet-Vendor: Gameloft SA
+MIDlet-1: The Amazing Spider Man, /icon.png, GloftTASM
+MIDlet-Version: 1.2.0
+MicroEdition-Profile: MIDP-2.0
+
